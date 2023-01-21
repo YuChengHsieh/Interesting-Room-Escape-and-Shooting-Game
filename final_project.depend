@@ -1,0 +1,374 @@
+# depslib dependency file v1.0
+1624970634 source:c:\users\jordan\desktop\i2p1_final_project-master\charater.cpp
+	"charater.h"
+
+1624952059 c:\users\jordan\desktop\i2p1_final_project-master\charater.h
+	"global.h"
+
+1624972055 c:\users\jordan\desktop\i2p1_final_project-master\global.h
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"algif.h"
+	<math.h>
+	<string.h>
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\allegro.h
+	"allegro5/base.h"
+	"allegro5/altime.h"
+	"allegro5/bitmap.h"
+	"allegro5/bitmap_draw.h"
+	"allegro5/bitmap_io.h"
+	"allegro5/bitmap_lock.h"
+	"allegro5/blender.h"
+	"allegro5/clipboard.h"
+	"allegro5/color.h"
+	"allegro5/config.h"
+	"allegro5/cpu.h"
+	"allegro5/debug.h"
+	"allegro5/display.h"
+	"allegro5/drawing.h"
+	"allegro5/error.h"
+	"allegro5/events.h"
+	"allegro5/file.h"
+	"allegro5/fixed.h"
+	"allegro5/fmaths.h"
+	"allegro5/fshook.h"
+	"allegro5/fullscreen_mode.h"
+	"allegro5/haptic.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/memory.h"
+	"allegro5/monitor.h"
+	"allegro5/mouse.h"
+	"allegro5/mouse_cursor.h"
+	"allegro5/path.h"
+	"allegro5/render_state.h"
+	"allegro5/shader.h"
+	"allegro5/system.h"
+	"allegro5/threads.h"
+	"allegro5/timer.h"
+	"allegro5/tls.h"
+	"allegro5/touch_input.h"
+	"allegro5/transformations.h"
+	"allegro5/utf8.h"
+	"allegro5/alcompat.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\base.h
+	<errno.h>
+	<limits.h>
+	<limits.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<sys/types.h>
+	<fortify/fortify.h>
+	<dmalloc.h>
+	"allegro5/internal/alconfig.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\internal\alconfig.h
+	"allegro5/platform/alplatf.h"
+	"allegro5/platform/alwatcom.h"
+	"allegro5/platform/almngw32.h"
+	"allegro5/platform/albcc32.h"
+	"allegro5/platform/almsvc.h"
+	"allegro5/platform/aliphonecfg.h"
+	"allegro5/platform/alosxcfg.h"
+	"allegro5/platform/alandroidcfg.h"
+	"allegro5/platform/alraspberrypicfg.h"
+	"allegro5/platform/alucfg.h"
+	"allegro5/platform/allegro_sdl_config.h"
+	"allegro5/platform/astdint.h"
+	"allegro5/platform/astdbool.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\alplatf.h
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\alwatcom.h
+	<io.h>
+	<i86.h>
+	<conio.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\almngw32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\albcc32.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\almsvc.h
+	<io.h>
+	<fcntl.h>
+	<direct.h>
+	<malloc.h>
+	"allegro5/platform/alplatf.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\aliphonecfg.h
+	<fcntl.h>
+	<unistd.h>
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\alosxcfg.h
+	"allegro5/platform/alplatf.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\alandroidcfg.h
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\alraspberrypicfg.h
+	<fcntl.h>
+	<unistd.h>
+	<sys/types.h>
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\alucfg.h
+	<fcntl.h>
+	<unistd.h>
+	"alunix.h"
+	"allegro5/platform/alplatf.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\alunix.h
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\allegro_sdl_config.h
+	<fcntl.h>
+	<unistd.h>
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\astdint.h
+	<inttypes.h>
+	<stdint.h>
+	<limits.h>
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\platform\astdbool.h
+	<stdbool.h>
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\altime.h
+	"allegro5/base.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\bitmap.h
+	"allegro5/color.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\color.h
+	"allegro5/base.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\bitmap_draw.h
+	"allegro5/bitmap.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\bitmap_io.h
+	"allegro5/bitmap.h"
+	"allegro5/file.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\file.h
+	"allegro5/base.h"
+	"allegro5/path.h"
+	"allegro5/utf8.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\path.h
+	"allegro5/base.h"
+	"allegro5/utf8.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\utf8.h
+	"allegro5/base.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\bitmap_lock.h
+	"allegro5/bitmap.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\blender.h
+	"allegro5/base.h"
+	"allegro5/color.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\clipboard.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/utf8.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\display.h
+	"allegro5/bitmap.h"
+	"allegro5/color.h"
+	"allegro5/events.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\events.h
+	"allegro5/altime.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\config.h
+	"allegro5/file.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\cpu.h
+	"allegro5/base.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\debug.h
+	<assert.h>
+	"allegro5/base.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\drawing.h
+	"allegro5/color.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\error.h
+	"allegro5/base.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\fixed.h
+	"allegro5/base.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\fmaths.h
+	"allegro5/base.h"
+	"allegro5/fixed.h"
+	"allegro5/inline/fmaths.inl"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\inline\fmaths.inl
+	"allegro5/error.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\fshook.h
+	"allegro5/base.h"
+	"allegro5/file.h"
+	"allegro5/path.h"
+	<sys/types.h>
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\fullscreen_mode.h
+	"allegro5/base.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\haptic.h
+	"allegro5/base.h"
+	"allegro5/display.h"
+	"allegro5/events.h"
+	"allegro5/joystick.h"
+	"allegro5/keyboard.h"
+	"allegro5/mouse.h"
+	"allegro5/touch_input.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\joystick.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\keyboard.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+	"allegro5/keycodes.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\keycodes.h
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\mouse.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\touch_input.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\memory.h
+	"allegro5/base.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\monitor.h
+	"allegro5/base.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\mouse_cursor.h
+	"allegro5/base.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\render_state.h
+	"allegro5/base.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\shader.h
+	"allegro5/base.h"
+	"allegro5/transformations.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\transformations.h
+	"allegro5/display.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\system.h
+	"allegro5/config.h"
+	"allegro5/path.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\threads.h
+	"allegro5/altime.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\timer.h
+	"allegro5/base.h"
+	"allegro5/events.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\tls.h
+	"allegro5/base.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\alcompat.h
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\allegro_primitives.h
+	<allegro5/allegro.h>
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\allegro_image.h
+	"allegro5/base.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\allegro_audio.h
+	"allegro5/allegro.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\allegro_acodec.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_audio.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\allegro_font.h
+	"allegro5/allegro.h"
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\allegro_ttf.h
+	"allegro5/allegro.h"
+	"allegro5/allegro_font.h"
+
+1624971820 source:c:\users\jordan\desktop\i2p1_final_project-master\gamewindow.cpp
+	"GameWindow.h"
+	"scene.h"
+
+1623085623 c:\users\jordan\desktop\i2p1_final_project-master\gamewindow.h
+	"global.h"
+	"charater.h"
+	"scene.h"
+	"object.h"
+
+1623154208 c:\users\jordan\desktop\i2p1_final_project-master\scene.h
+	"global.h"
+	"charater.h"
+	"object.h"
+
+1624972050 source:c:\users\jordan\desktop\i2p1_final_project-master\global.cpp
+	"global.h"
+
+1622307510 source:c:\users\jordan\desktop\i2p1_final_project-master\main.cpp
+	"GameWindow.h"
+
+1624970709 source:c:\users\jordan\desktop\i2p1_final_project-master\scene.cpp
+	"scene.h"
+
+1624868591 c:\users\jordan\desktop\i2p1_final_project-master\object.h
+	"global.h"
+
+1624972288 source:c:\users\jordan\desktop\i2p1_final_project-master\object.cpp
+	"object.h"
+	"scene.h"
+
+1490324973 source:c:\users\jordan\desktop\i2p1_final_project-master\algif.c
+	"algif.h"
+	<allegro5/allegro_primitives.h>
+	<math.h>
+
+1490324973 c:\users\jordan\desktop\i2p1_final_project-master\algif.h
+	<allegro5/allegro5.h>
+
+1615199857 c:\users\jordan\desktop\i2p1_final_project-master\allegro\include\allegro5\allegro5.h
+	"allegro.h"
+
+1490324973 source:c:\users\jordan\desktop\i2p1_final_project-master\bitmap.c
+	"algif.h"
+
+1490324973 source:c:\users\jordan\desktop\i2p1_final_project-master\gif.c
+	"algif.h"
+	<stdlib.h>
+	<string.h>
+
+1490324973 source:c:\users\jordan\desktop\i2p1_final_project-master\lzw.c
+	"algif.h"
+
