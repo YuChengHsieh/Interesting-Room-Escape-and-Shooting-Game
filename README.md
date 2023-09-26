@@ -1,5 +1,4 @@
 # Interesting Room Escape and Shooting Game
-Introduction to programming 1 final project
 # Introduction
 
 ## Resource
