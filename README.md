@@ -14,3 +14,11 @@ room escape games) to assemble a jet. Then, you have to use the jet to combat th
 - Allegro install(Windows):  https://github.com/yuan7122/I2P1_Final_project/blob/master/tutorial/Allegro_install.pdf
 - Allegro documentation: https://liballeg.org/a5docs/trunk/
 - For more information refer to [tutorial folder](https://github.com/yuan7122/I2P1_Final_project/tree/master/tutorial)
+
+## Contributors
+
+This project exists thanks to all people who contribute.
+
+<a href="https://github.com/YuChengHsieh/Interesting-Room-Escape-and-Shooting-Game/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=YuChengHsieh/Interesting-Room-Escape-and-Shooting-Game" />
+</a>
