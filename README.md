@@ -1,6 +1,7 @@
 # Interesting Room Escape and Shooting Game
 You are a Kinopio that was shot into a house by enemies. You have to control the character to collect jet pieces (similar to
-room escape games) to assemble a jet. Then, you have to use the jet to combat the enemies (like a shooting game).
+room escape games) to assemble a jet. Then, you have to use the jet to combat the enemies (like a shooting game). 
+We have recently developed a website for the game, which can be accessed at the following URL: https://yuchenghsieh.github.io/intro_programming_website
 # Getting Started
 1. Install CodeBlock: [https://www.codeblocks.org/downloads/]
 2. Download Allergo packages (See the Resource below).
